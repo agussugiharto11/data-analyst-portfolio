@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio
 
-Halo 👋, saya **[Agus Sugiharto]**.  
+Halo 👋, saya **Agus Sugiharto**.  
 Ini adalah kumpulan proyek Data Analyst saya menggunakan **SQL, Python, dan Dashboard**.
 
 ## 📌 Isi Portfolio
